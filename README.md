@@ -7,3 +7,4 @@ Aplicación realizada con: React Native, firebase y python
 ![recomendaciones](https://github.com/JJM3RLIN/DineDirect_Movil/assets/86682929/8425ad56-1b38-4a54-82f1-b2125750cc83)
 ![menu](https://github.com/JJM3RLIN/DineDirect_Movil/assets/86682929/91709ada-3407-4841-8ee7-57833a3b4771)
 ![resumen_pedido](https://github.com/JJM3RLIN/DineDirect_Movil/assets/86682929/aac64385-23ea-4498-819a-4a46b70cdf10)
+![tiempo](https://github.com/JJM3RLIN/DineDirect_Movil/assets/86682929/7a21de94-f1d3-4d65-8246-05aa53312e17)
